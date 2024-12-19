@@ -1,5 +1,5 @@
 
-#  LiON: Learning Point-wise  Abstaining Penalty for LiDAR  Outlier DetectioN Using Diverse Synthetic Data 
+#  LiON: Learning Point-wise  Abstaining Penalty for LiDAR  Outlier DetectioN Using Diverse Synthetic Data (AAAI2025)
 
 
 Official implementation of 《LiON: Learning Point-wise  Abstaining Penalty for LiDAR  Outlier DetectioN Using Diverse Synthetic Data》. After saving the corresponding inference result files using this repository, please use [semantic_kitti_api](https://github.com/Jun-CEN/semantic_kitti_api) and [nuScenes_api](https://github.com/Jun-CEN/nuScenes_api) to evaluate the performance.
